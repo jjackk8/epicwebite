@@ -1,26 +1,29 @@
-*{font-size: 12px;
+*{font-size: 14px;
   font-family: "Times New Roman", Times, serif;
-  color:#f5f7ff;
+  color:#000000;
   
 }
 
 .h{
-  font-size: 16px;
+  font-size: 18px;
+  text-align: center;
 }
 
 body
 {
-  background-color: #6b0b02;
+  background-color: #5c8061;
   display: flex;
+  text-align: center;
 }
 
 .dave{
-  background-color: black;
+  background-color: rgb(223, 221, 154);
   align-items: center;
 }
 .bob{
-  width: 100%;
+  width: 70%;
   display: flex;
   flex-direction: column;
   align-items: stretch;
+  margin: auto;
 }
