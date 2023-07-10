@@ -6,7 +6,7 @@
 }
 
 .h{
-  font-size: 18px;
+  font-size: 20px;
 }
 
 body
@@ -26,14 +26,17 @@ body
 .dave{
   background-color: rgb(223, 221, 154);
   align-items: center;
+  padding-top: 7px;
 }
 
 .pete{
   background-color: aquamarine;
-  align-items: center;   
+  align-items: center;
+     
 }
 
 .cove{
   background-color: darkgreen;
   align-items: center;
 }
+
