@@ -55,7 +55,11 @@ body
 }
 
 .cove{
-  background-color: darkgreen;
+  background-color: #F10B2E;
   align-items: center;
 }
 
+.time{
+  background-color: purple;
+  align-items: center;
+}
