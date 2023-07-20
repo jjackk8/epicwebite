@@ -1,17 +1,35 @@
 *{
   font-family: "Times New Roman", Times, serif;
   color:#000000;
-  text-align: center;
   font-family: Helvetica, sans-serif;
+}  
+
+header{
+  background-color: #2995C4;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+li{
+  list-style: none;
+}
+
+a{
+  color: #000000;
+  text-decoration: none;
 }
 
 .h{
   font-size: 22px;
+  text-align: center;
 }
 
 body
 {
   background-color: #5c8061;
+  
 }
 
 .bob{
@@ -21,6 +39,8 @@ body
   align-items: stretch;
   margin: auto;
   padding-bottom: 10px;
+  text-align: center;
+  padding: default;
 }
 
 .dave{
@@ -61,5 +81,15 @@ body
 
 .time{
   background-color: purple;
+  align-items: center;
+}
+
+.bath{
+  background-color: #72374f;
+  align-items: center;
+}
+
+.word{
+  background-color: #72374f;
   align-items: center;
 }
