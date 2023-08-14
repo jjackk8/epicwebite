@@ -21,6 +21,15 @@ a{
   text-decoration: none;
 }
 
+.navbar{
+  
+}
+
+
+
+
+
+
 .h{
   font-size: 22px;
   text-align: center;
@@ -32,22 +41,6 @@ body
   
 }
 
-.bob{
-  width: 70%;
-  display: flex;
-  flex-direction: column;
-  align-items: stretch;
-  margin: auto;
-  padding-bottom: 10px;
-  text-align: center;
-  padding: default;
-}
-
-.dave{
-  background-color: rgb(223, 221, 154);
-  align-items: center;
-  padding-top: 7px;
-}
 .container{
   display:inline-block;
   cursor: pointer;
@@ -67,6 +60,26 @@ body
 /* Rotate last bar */
 .change .bar3 {
   transform: translate(0, -11px) rotate(45deg);}
+
+
+
+
+.bob{
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  margin: auto;
+  padding-bottom: 10px;
+  text-align: center;
+  padding: default;
+}
+
+.dave{
+  background-color: rgb(223, 221, 154);
+  align-items: center;
+  padding-top: 7px;
+}
 
 .pete{
   background-color: aquamarine;
